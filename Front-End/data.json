@@ -1,0 +1,51 @@
+{
+    "a":[
+        {
+            
+            "name":"Aishwarya Mahal",
+            "Vacancies":15,
+            "salary":450,
+            "img":"./pic/mahal_1.jpg",
+            "place":"Madhavaram"
+        },
+        {
+            
+            "name":"shafi Mahal",
+            "Vacancies":35,
+            "salary":450,
+            "img":"./pic/mahal-2.avif",
+            "place":"Old Washermanpet"
+        },
+        {
+            
+            "name":"N.M Mahal",
+            "Vacancies":40,
+            "salary":450,
+            "img":"./pic/mahal-3.jpg",
+            "place":"New Washermanpet"
+        },
+        {
+            "name":"D.E Mahal",
+            "Vacancies":40,
+            "salary":450,
+            "img":"./pic/mahal-4.jpg",
+            "place":"Porur"
+            
+
+        },
+        {
+            "name":"Tausii Mahal",
+            "Vacancies":40,
+            "salary":450,
+            "img":"./pic/mahal-5.jpg",
+            "place":"Ramapuram"
+        },
+        {
+            "name":"Seerah Mahal",
+            "Vacancies":40,
+            "salary":450,
+            "img":"./pic/mahal-6.jpg",
+            "place":"Aminjikkarai"
+        }
+    ]
+}

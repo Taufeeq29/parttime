@@ -1,0 +1,184 @@
+
+.button{
+    text-decoration: none;   
+}
+.button2{
+    height:50px;
+    width:fit-content;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    right:50px;
+    margin:20px;
+    border: none;
+    background:rgb(201, 184, 168);
+    }
+    ul{
+        position:relative;
+        left:300px;
+       }
+    .nav-img{
+        position: relative;
+        left:50px;
+        height:50px;
+         width:130px;
+    }
+.search{
+    position: relative;
+    left:15px;
+    top:4px;
+    font-size: 30px;  
+}
+.input{
+    position: relative;
+    left:50px;
+    border:2px solid black;
+    padding:5px;
+}
+
+.c2{
+    display: flex;
+    justify-content: center;
+}
+.c3{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;  
+}
+.works{
+    font-weight: 500;
+    font-size: 50px;
+    color:rgb(165, 188, 96);
+    display: flex;
+    justify-content: center;
+}
+.pics{
+    height: 130px;
+    border-radius: 50%;
+}
+.regi{
+    
+    margin-left: 320px;
+}
+.regis{
+    margin-left: 320px;
+}
+
+
+.login{
+  margin-left: 700px;  
+}
+.logs{
+    margin-left: 710px;
+}
+.bookings{
+    margin-left:1050px;
+    position: relative;
+    bottom:340px;
+}
+#animat1{
+    height:60px;
+    width:60px;
+    transform: rotate(30deg);
+
+    animation-name: taufee;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    position: relative;
+    bottom:470px;
+    left:450px;
+    }
+@keyframes taufee{
+0%{
+    bottom:470px;
+    left:450px;
+}
+10%{
+    bottom:300px;
+    left:650px;
+}
+20%{
+    transform: rotate(0deg);
+    bottom:300px;
+    left:830px;
+}
+30%{
+    transform: rotate(320deg);
+    bottom:450px;
+    left:930px;
+}   
+}
+/* #animat2{
+ position: relative;
+ bottom:315px;
+ left:770px;
+ width:50px;
+ height:60px;
+ transform: rotate(320deg);
+ animation-name: epsii;
+ animation-duration: 5s;
+ animation-timing-function: linear;
+ animation-iteration-count: infinite;
+
+}
+@keyframes epsii{
+    0%{
+        bottom:315px;
+        left:770px;
+    }
+    10%{
+        bottom:450px;
+        left:930px;
+    } 
+}*/
+ .bg{
+    background-image: url(./pic/home.png);
+    width:1521px;
+ }
+ .section{
+    background-image: url(./pic/bg_sec.jpg);
+    width:1521px;
+ }
+ .avai{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    color:brown;
+ }
+ .cards{
+    position: relative;
+    bottom:170px;
+ }
+ .car{
+    height:200px;
+    width:200px;
+ }
+ .bold{
+    display: inline-block;
+ }
+ .bolds{
+    display: block;
+ }
+ .footer-img{
+    height:100px;
+    width:150px;
+    margin-left: 60px;
+ }
+ footer{
+    background:sandybrown;
+ }
+ .line{
+    background: black;
+ }
+ .foo{
+    color:black;
+    text-decoration: none;
+ }
+
+
+
+    
+    
+
